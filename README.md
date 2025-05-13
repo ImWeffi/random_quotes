@@ -29,5 +29,4 @@ Programmas darbības: skatīt citātu, saglabāt citātu, mainīt tēmu vai izie
 ## Bibliotēku instalēšana
 ```
 pip install requests beautifulsoup4 openpyxl
-
 ```
